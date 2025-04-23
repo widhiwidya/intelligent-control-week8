@@ -1,0 +1,5 @@
+Analisis dan Diskusi 
+
+Praktikum ini menunjukkan bahwa penggunaan YOLOv8 sebagai model deteksi objek mampu memberikan solusi efektif untuk mendeteksi kerusakan dan gangguan pada jalur rel kereta api secara otomatis. Dengan kemampuan real-time detection, YOLOv8 dapat mengidentifikasi berbagai jenis objek seperti retakan, pelapukan, dan benda asing dengan akurasi yang cukup baik.
+
+Namun demikian, akurasi model sangat bergantung pada kualitas dan jumlah data pelatihan. Dataset yang terbatas dan kurang bervariasi dapat menyebabkan model kesulitan mengenali objek dalam kondisi lingkungan yang berbeda. Oleh karena itu, proses pengumpulan data, pelabelan yang akurat, serta augmentasi data menjadi faktor penting dalam keberhasilan model. 
